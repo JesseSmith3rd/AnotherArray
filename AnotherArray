@@ -1,0 +1,19 @@
+public class MyArrayPartTwo {
+
+  public static void main (String [] args) {
+  
+  int [] Boom;
+  
+  Boom = new int [100];
+  
+  Boom [0] = 100;
+  Boom [1] = 100;
+  Boom [2] = 100;
+  Boom [3] = 100;
+  Boom [4] = 100;
+  
+  System.out.println("Element at index 0: " + Boom [0]);
+  System.out.println("Element at index 0: " + Boom [1]);
+  System.out.println("Element at index 0: " + Boom [2]);
+  System.out.println("Element at index 0: " + Boom [3]);
+  System.out.println("Element at index 0: " + Boom [4]);
